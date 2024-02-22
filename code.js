@@ -1,3 +1,6 @@
+// Geeks for Geeks was used to understand the mechanics of the iteration of the for loops in mergesort
+// The merge code was taken from the slides
+
 function mergesort(array)
 {
   let size = array.length;
